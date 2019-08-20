@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : Aug 20, 2019, 8:12:52 PM
+    Document   : hello
+    Created on : Aug 20, 2019, 8:21:01 PM
     Author     : saru
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-        <a href="newfol/hello.jsp">google</a>
+        <h1>this is new</h1>
     </body>
 </html>
