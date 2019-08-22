@@ -9,6 +9,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="../css/hello.css">
+
         <title>JSP Page</title>
         <style>
         body {
@@ -51,6 +53,14 @@
         </style>
     </head>
     <body>
+
+        <h1>this is new</h1>
+        <div class="custom_div">
+            <div id="one">one</div>
+            <div id="two">two</div>
+            <div id="three">three</div>
+        </div>
+
        
         
         <div class="sidenav">
@@ -69,6 +79,5 @@
           <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
           <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
         </div>  
-
     </body>
 </html>
