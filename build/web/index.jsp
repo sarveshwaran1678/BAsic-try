@@ -16,7 +16,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-       
+       <a href="folder1/mayank.jsp" >new link</a>
         <nav class="navbar navbar-inverse">
             <div class="container-fluid">
               <div class="navbar-header">
